@@ -60,11 +60,7 @@
   
   .photo-gallery img {
     flex: 1 1 calc(33.333% - 10px);
-    transition: transform 0.3s ease;
-  }
-  
-  .photo-gallery img:hover {
-    transform: scale(1.05);
+   
   }
   
   /* Media queries for responsiveness */
